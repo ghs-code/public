@@ -1,0 +1,3 @@
+# Ignore compiled pages, easy enough to make if needed
+notes/*/compiled.md
+
