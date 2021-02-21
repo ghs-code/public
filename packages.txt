@@ -35,3 +35,4 @@ nerd-fonts-complete
 ttf-ubuntu-font-family
 ttf-joypixels
 ttf-symbola
+ttf-font-awesome
