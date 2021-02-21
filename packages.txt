@@ -1,5 +1,7 @@
 vim
 
+xclip
+
 wmname
 xdotool
 
