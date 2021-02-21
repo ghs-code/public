@@ -1,7 +1,9 @@
 vim
 
 wmname
+xdotool
 
+bsp-layout
 bspwm
 sxhkd
 
@@ -25,5 +27,9 @@ firefox
 termite
 alacritty
 
+https://github.com/ghs-code/st-build
+
 nerd-fonts-complete
 ttf-ubuntu-font-family
+ttf-joypixels
+ttf-symbola
