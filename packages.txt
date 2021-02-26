@@ -1,5 +1,6 @@
 vim
 
+xsel
 xclip
 
 wmname
@@ -25,6 +26,9 @@ inkscape
 zoom
 chromium
 firefox
+
+neofetch
+figlet
 
 termite
 alacritty
