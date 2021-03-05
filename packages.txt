@@ -1,5 +1,6 @@
 alacritty
 alsa-utils
+apulse
 arc-icon-theme
 archiso
 archlinux-wallpaper
@@ -66,6 +67,7 @@ iputils
 lain-git
 leafpad
 leftwm
+libxft-bgra
 licenses
 lightdm
 lightdm-gtk-greeter
@@ -97,7 +99,9 @@ os-prober
 p7zip
 pacman
 pacman-contrib
+pamixer
 patch
+pavucontrol
 pciutils
 pcmanfm
 picom-jonaburg-git
@@ -118,7 +122,6 @@ samba
 sed
 shadow
 shell-color-scripts
-snapd
 spotify
 spotify-tui-bin
 spotifyd
@@ -145,6 +148,7 @@ upower
 util-linux
 vim
 virtualbox
+volumeicon
 weechat
 wget
 which
@@ -213,6 +217,7 @@ xterm
 xz
 yay-bin
 youtube-dl
+zathura
 zoom
 zsh
 zsh-syntax-highlighting
