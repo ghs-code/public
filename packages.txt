@@ -11,6 +11,7 @@ awesome-freedesktop-git
 base
 bash
 bash-completion
+bc
 binutils
 bison
 bitwarden-bin
@@ -67,6 +68,7 @@ iputils
 lain-git
 leafpad
 leftwm
+libreoffice-still
 libxft-bgra
 licenses
 lightdm
@@ -86,6 +88,7 @@ man-pages
 moc
 mpv
 neofetch
+neovim
 nerd-fonts-complete
 net-tools
 networkmanager
@@ -100,6 +103,7 @@ p7zip
 pacman
 pacman-contrib
 pamixer
+paru
 patch
 pavucontrol
 pciutils
@@ -113,12 +117,15 @@ procps-ng
 psmisc
 pulseaudio-bluetooth
 qtox
+ranger
+reddit-wallpaper-fetcher-git
 ripgrep
 rofi
 rsync
 ruby
 rustup
 samba
+sardi-icons
 sed
 shadow
 shell-color-scripts
